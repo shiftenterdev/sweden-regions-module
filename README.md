@@ -7,7 +7,7 @@ Regions/Province of Sweden to be used with Magento2.
 Use [composer](https://getcomposer.org/) to install Shiftenterdev_SwedenRegions.
 
 ```
-composer require shiftenterdev/module-sweden-regions
+composer require shiftenterdev/sweden-regions-module
 ```
 
 Then you'll need to activate the module.
@@ -17,6 +17,9 @@ bin/magento module:enable Shiftenterdev_SwedenRegions
 bin/magento setup:upgrade
 bin/magento cache:clean
 ```
+## Issue
+
+If any issue rise please knock me in [info@shiftenter.dev](mailto=info@shiftenter.dev)
 
 ## Uninstall
 
