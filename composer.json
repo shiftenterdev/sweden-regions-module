@@ -1,0 +1,21 @@
+{
+    "name": "shiftenterdev/sweden-regions-module",
+    "description": "Regions/County module of Sweden for Magento2.",
+    "require": {
+        "php": "~7.2.0||~7.3.0||~7.4.0",
+        "magento/module-directory": "100.*"
+    },
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "MIT"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Shiftenterdev\\SwedenRegions\\": ""
+        }
+    }
+}
