@@ -19,7 +19,7 @@ bin/magento cache:clean
 ```
 ## Issue
 
-If any issue rise please knock me in [info@shiftenter.dev](mailto=info@shiftenter.dev)
+If any issue rise please knock me in [Dev Mail](mailto:info@shiftenter.dev?subject=[GitHub]%20SwedenRegionM2%20Issue)
 
 ## Uninstall
 
