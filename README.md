@@ -1,5 +1,9 @@
 # Sweden Regions for Magento2
 
+[![Latest Stable Version](https://poser.pugx.org/shiftenterdev/sweden-regions-module/v)](//packagist.org/packages/shiftenterdev/sweden-regions-module)
+[![Total Downloads](https://poser.pugx.org/shiftenterdev/sweden-regions-module/downloads)](//packagist.org/packages/shiftenterdev/sweden-regions-module)
+[![License](https://poser.pugx.org/shiftenterdev/sweden-regions-module/license)](//packagist.org/packages/shiftenterdev/sweden-regions-module)
+
 Regions/Province of Sweden to be used with Magento2.
 
 ## Installation
